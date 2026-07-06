@@ -74,7 +74,7 @@ Image-Compressor/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Image-Compressor.git
+git clone https://github.com/Madhubalakumar07/Image-Compressor.git
 cd Image-Compressor
 ```
 
