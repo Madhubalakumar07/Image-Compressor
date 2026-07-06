@@ -1,0 +1,59 @@
+```gitignore
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================
+# IDEs
+# ==========================
+.vscode/
+.idea/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# Build & Distribution
+# ==========================
+build/
+dist/
+*.egg-info/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Streamlit
+# ==========================
+.streamlit/secrets.toml
+
+# ==========================
+# Output Images (Optional)
+# Uncomment if you don't want
+# generated images in Git
+# ==========================
+# output/
+# *.png
+# *.jpg
+# *.jpeg
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+```
